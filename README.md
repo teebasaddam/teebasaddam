@@ -13,21 +13,14 @@
 
 <br>
 
-### <ins><sup>ACADEMIC PROFILE & OBJECTIVES</sup></ins>
+### <ins><sup>ABOUT ME</sup></ins>
 
-* 🎓 Second-year **Artificial Intelligence Technology Engineering** student at Northern Technical University, Iraq.
+* 🎓 **Third-year** Artificial Intelligence Technology Engineering student at Northern Technical University, Iraq.
 * 🎨 Aspiring **UI/UX & Digital Product Designer**, bridging the gap between complex AI logic and human-centered design.
-* 🌍 Highly motivated to participate in international exchange programs (like Erasmus) to broaden my academic horizons.
-* 📚 Dedicated to continuous self-improvement, currently undertaking an intensive English study routine and daily journaling.
-* 🌱 Participating in a technical systems and data analysis summer internship at the **Remote Sensing Center** (University of Mosul).
-
-<br>
-
-### <ins><sup>PROJECTS & RESEARCH</sup></ins>
-
-* 🧠 **AI-Based Autism Conceptual Framework:** Conducted user research and mapped behavioral needs to design an accessible, empathetic AI system framework for children with autism.
-* 🔒 **Arduino-Based Electronic Lock System:** Prototyped and programmed an interactive hardware-software integrated security system.
-* 🔧 **Hardware Troubleshooting:** Strong practical engineering skills, including component-level diagnostics (e.g., resolving power failures via charging IC replacement).
+* 🔭 **I’m currently working on:** AI-based conceptual frameworks and hardware-software integrations (like my Arduino lock system).
+* 🌱 **I’m currently learning:** Advanced User Research and Information Architecture.
+* 💬 **Ask me about:** Python, C++, Arduino, or organizing tech community events!
+* ⚡ **Fun fact:** I have big Pam Beesly energy when it comes to creativity, and I love unwinding with *The Office* or narrative-driven games like *Detroit: Become Human* and *Minecraft*.
 
 <br>
 
@@ -35,8 +28,7 @@
 
 * 🎤 **Interviewer & Media Team** at *TEDxUniversity of Technology Iraq*.
 * 💡 **Content & Media Volunteer** at *The Forge Engineering Community*.
-* 🏢 **Summer Intern** at *Asiacell (ASAS Program)*, gaining exposure to telecommunications infrastructure.
-* 🛡️ **Certified in Cybersecurity** by *Cisco Networking Academy*.
+* 🏢 **Former Summer Intern** at *Asiacell (ASAS Program)* & *Remote Sensing Center* (University of Mosul).
 
 <br>
 
@@ -77,11 +69,5 @@
 <br>
 
 ---
-
-<br>
-
-### <ins><sup>BEYOND THE CODE</sup></ins>
-
-* 🎮 I enjoy taking breaks with narrative-driven and cooperative games like *Detroit: Become Human*, *It Takes Two*, or exploring creativity in *Minecraft*.
 
 </div>
