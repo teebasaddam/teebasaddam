@@ -1,26 +1,33 @@
-<img src="ALNST _ R O U N D  3.webp" width="100%" alt="Meteor Shower Banner">
+<h1 align="center">Hi there, I'm Teeba Saddam 👋</h1>
+<h3 align="center">AI Technology Engineering Student | Passionate about Data, Robotics & UI/UX</h3>
 
-<h2> Hi, I'm Teeba Saddam! </h2>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:teevadam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><em>Third-year AI Technology Engineering Student at <a href="https://ntu.edu.iq/">Northern Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Passionate about Applied AI, Data Engineering & Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+---
 
-[![Linkedin: Teeba Saddam](https://img.shields.io/badge/-Teeba_Saddam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email Teeba](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:teevadam@gmail.com)
+### 👩🏻‍💻 About Me
+* 🎓 **Third-year AI Technology Engineering** student at Northern Technical University, Iraq.
+* 🌍 **Goal:** Actively seeking **Erasmus exchange programs** in Applied AI, Computer Science, and Data Engineering.
+* 🔍 **Focus:** Building AI-based conceptual frameworks (like my Autism support project) and bridging hardware-software integration (Arduino systems).
+* 🌱 **Experience:** Former intern at Asiacell & Data Trainee at the Remote Sensing Center.
+* ⚡ **Outside of Tech:** Big Pam Beesly fan! I love unwinding with narrative games like *Detroit: Become Human* or getting creative in *Minecraft*.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 🛠️ Tech Stack & Tools
 
-```javascript
-const teeba = {
-  pronouns: "she" | "her",
-  code: ["Python", "C++", "Arduino"],
-  tools: ["TensorFlow", "PyTorch", "Pandas", "Git"],
-  focus: ["Machine Learning", "Data Engineering", "Robotics", "Computer Science"],
-  academicGoal: "Seeking Erasmus exchange opportunities in AI & CS 🌍",
-  experience: {
-    data_trainee: "Remote Sensing Center (University of Mosul)",
-    intern: "Asiacell ASAS Program",
-    volunteer: "TEDx & The Forge Engineering Community"
-  },
-  funFact: "I have big Pam Beesly energy! When I'm not coding, I'm unwinding with Detroit: Become Human or Minecraft."
-}
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,arduino,tensorflow,pytorch,git,github,figma,md&perline=10" />
+  </a>
+</p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teebasaddam&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=333333" alt="Teeba's GitHub Stats" />
+</p>
