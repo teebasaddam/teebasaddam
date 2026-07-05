@@ -13,7 +13,7 @@
 ---
 
 ### 👩🏻‍💻 About Me
-* 🎓 **Third-year AI Technology Engineering** student at Northern Technical University, Iraq.
+* 🎓 **Third-year AI Technology Engineering** student at Northern Technical University.
 * 🌍 **Goal:** Actively seeking **Erasmus exchange programs** in Applied AI, Computer Science, and Data Engineering.
 * 🔍 **Focus:** Building AI-based conceptual frameworks (like my Autism support project) and bridging hardware-software integration (Arduino systems).
 * 🌱 **Experience:** Former intern at Asiacell & Data Trainee at the Remote Sensing Center.
