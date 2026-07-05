@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Teeba Saddam 👋</h1>
-<h3 align="center">AI Technology Engineering Student | Passionate about Data, Robotics & UI/UX</h3>
+<h3 align="center">AI Technology Engineering Student | Passionate about Data, Robotics</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
