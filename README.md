@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Teeba Saddam 👋</h1>
-<h3 align="center">AI Technology Engineering Student | Passionate about Data, Robotics</h3>
+<h3 align="center">AI Technology Engineering Student | Passionate about Data, Robotics & Hardware Integration</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -27,7 +27,15 @@
   </a>
 </p>
 
+---
+
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teebasaddam&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=333333" alt="Teeba's GitHub Stats" />
-</p>
+
+<div align="center">
+<a href="https://github.com/teebasaddam">
+
+<img src="https://github-readme-stats.vercel.app/api?username=teebasaddam&show_icons=true&theme=nord_dark&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teebasaddam&layout=compact&theme=nord_dark&hide_border=true" width="48%">
+
+</a>
+</div>
