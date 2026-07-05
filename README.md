@@ -1,5 +1,5 @@
-<h2> Hi, I'm Teeba Saddam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Teeba Saddam! </h2>
+
 <p><em>Third-year AI Technology Engineering Student at <a href="https://ntu.edu.iq/">Northern Technical University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Passionate about Applied AI, Data Engineering & Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
