@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Teeba Saddam 👋</h1>
+<h1 align="center">Hi there, I'm Teeba</h1>
 <h3 align="center">AI Technology Engineering Student | Passionate about Data, Robotics & Hardware Integration</h3>
 
 <p align="center">
@@ -31,11 +31,10 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/teebasaddam">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=teebasaddam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=teebasaddam&show_icons=true&theme=nord_dark&hide_border=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teebasaddam&layout=compact&theme=nord_dark&hide_border=true" width="48%">
-
-</a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teebasaddam&show_icons=true&theme=nord_dark&hide_border=true" alt="Teeba's GitHub Stats" />
+</p>
