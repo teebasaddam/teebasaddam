@@ -1,6 +1,6 @@
 <div align="center">
 
-# Teeba Saddam 
+# Teeba  
 **3rd-Year AI Technology Engineering Student** 
 
 <a href="https://www.linkedin.com/in/teeba-saddam-659209420" target="_blank">
